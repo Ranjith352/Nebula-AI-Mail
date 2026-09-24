@@ -146,16 +146,6 @@ User Prompt ──► LLM Tool Call ──► Action Dispatcher ──► AppCon
 
 ---
 
-## 🔮 What I’d Improve with More Time
-
-1. **Vector-Based RAG Semantic Search**: Integrate embedding search (e.g., Pinecone or pgvector) alongside keyword search for deep semantic body query matching.
-2. **Offline Support & Service Workers**: Implement IndexedDB caching and Service Worker PWA support for offline draft editing.
-3. **Full Rich-Text WYSIWYG Editor**: Replace plain-text Compose textarea with a complete HTML editor (e.g., TipTap or Lexical).
-4. **Automated E2E Test Suite**: Add Playwright / Cypress integration tests for automated regression testing of AI tool calls and OAuth session flows.
-5. **Multi-Account Switching**: Support simultaneous login and instant switching between multiple Google Gmail accounts.
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for details.
